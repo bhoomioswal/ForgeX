@@ -1,4 +1,4 @@
-# Forge-X 🤖
+# Forge-X 
 ## Multi-Functional 4WD RC Rover with Single Robotic Arm
 
 Forge-X is a 4-wheel-drive remote-controlled robotic rover combining

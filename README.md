@@ -1,8 +1,8 @@
+# Forge-X
 <p align="center">
   <img src="images/forge-x.jpg" alt="Forge-X Rover" width="700">
 </p>
 
-# Forge-X
 ### Multi-Functional 4WD RC Rover with Single Robotic Arm# Forge-X 
 ## Multi-Functional 4WD RC Rover with Single Robotic Arm
 

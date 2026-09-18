@@ -1,0 +1,26 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Build
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs/temp
+*.log
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.pyc
